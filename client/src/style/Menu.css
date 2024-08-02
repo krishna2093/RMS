@@ -1,0 +1,9 @@
+.menu-page header{
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../utils/vegetables-set-left-black-slate.jpg');
+    height: 60vh;
+}
+
+header{
+    background-size: cover;
+    background-position: center;
+}
